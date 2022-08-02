@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Evolutionary Algorithms 
+- 🌱 I’m currently learning Deep Reinforced Learning
+- 👯 I’m looking to collaborate with everyone :)
+- 📫 How to reach me: joaovcostaandrade@gmail.com
